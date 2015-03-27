@@ -12,3 +12,4 @@ The image `innocuous.png` used in the presentation was created as follows, using
 ```
 
 The image `all_black_300x300.png` in the presentation is also in `img_stego/`.
+
