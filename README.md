@@ -1,5 +1,5 @@
 # Steganography and Erlang
-Presentation at [Erlang Factory 2015](http://www.erlang-factory.com/sfbay2015/derek-brown).
+Presentation at [Erlang Factory 2015](http://www.erlang-factory.com/sfbay2015/derek-brown) and the [Erlang NYC Meetup](http://www.meetup.com/Erlang-NYC/events/221649711/).
 
 ##Slides
 [Slides](https://github.com/derek121/erlang_factory_2015/blob/master/derek-brown-steganography-erlang.pdf)
